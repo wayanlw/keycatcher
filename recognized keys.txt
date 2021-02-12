@@ -1,0 +1,36 @@
+A string of the following keys are recorded as typed, then logged only when an endkey is pressed:
+a-z
+A-Z
+0-9
++ - = ( ) { } [ ] / \ * , ' " ; : & ^ % $ # ` ~ < >
+
+Endkeys:
+Enter
+Tab
+Backspace
+. (period)
+?
+!
+Any of the four directional keys
+
+Non ASCII keys:
+Esc
+Print Screen
+Left and Right Shift
+Left and Right Control
+Left and Right Alt
+Left and Right Win
+Delete
+Insert
+Home
+End
+Page Up and Down
+F1-F12
+
+Combination keys:
+Ctrl-Z
+Ctrl-X
+Ctrl-C
+Ctrl-V
+Ctrl-Alt-Del
+Ctrl-Shift-Esc
